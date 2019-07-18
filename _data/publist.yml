@@ -18,7 +18,7 @@
   link:
     display: "Catal. Today 2018, 312, 149–157."
     url: "https://doi.org/10.1016/j.cattod.2018.02.024"
-  news2: ~
+  news2: Featured in Frontiers in Energy Research Newsletter <a href="https://www.energyfrontier.us/content/how-bypass-hill-when-calculating-better-synthesis-routes">
   title: "Catalytic descriptors and electronic properties of single-site catalysts for ethene dimerization to 1-butene"
   year: 2018
 -
@@ -29,7 +29,7 @@
   link:
     display: "Angew. Chem. Int. Ed. 2018, 57, 909-913."
     url: "https://doi.org/10.1002/anie.201708092"
-  news2: ~
+  news2: Featured in Frontiers in Energy Research Newsletter <a href="https://www.energyfrontier.us/content/when-less-more">
   title: "Sinter‐Resistant Platinum Catalyst Supported by Metal–Organic Framework"
   year: 2018
 -
@@ -43,3 +43,14 @@
   news2: ~
   title: "Strontium manganese vanadates from hydrothermal brines: Synthesis and structure of Sr<sub>2</sub>Mn<sub>2</sub>(V<sub>3</sub>O<sub>10</sub>)(VO<sub>4</sub>), Sr<sub>3</sub>Mn(V<sub>2</sub>O<sub>7</sub>)<sub>2</sub>, and Sr<sub>2</sub>Mn(VO<sub>4</sub>)<sub>2</sub>(OH)"
   year: 2017
+-
+  authors: "**S. Pellizzeri**, I.A. Jones*, H.A. Doan, R.Q. Snurr, R.B. Getman"
+  description: ~
+  highlight: 1
+  image: 10562_2016_1890_Figa_HTML.gif
+  link:
+    display: "Catal. Lett. 2016, 146, 2566–2573"
+    url: "https://doi.org/10.1007/s10562-016-1890-7"
+  news2: ~
+  title: "Using Gas-Phase Clusters to Screen Porphyrin-Supported Nanocluster Catalysts for Ethane Oxidation to Ethanol"
+  year: 2016
