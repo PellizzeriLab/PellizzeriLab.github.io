@@ -54,20 +54,8 @@ permalink: /publications/
 
 ## Full List
 
-### 2019
-
 {% for publi in site.data.publist %}
 
-{% if publi.year == 2019 %}
-{{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-
-{% endfor %}
-### 2018
-{% for publi in site.data.publist %}
-
-{% if publi.year == 2018 %}
 {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
