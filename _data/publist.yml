@@ -1,11 +1,11 @@
 - title: "Phosphonic acid and alkyl phosphate-derivatized resins for the simultaneous concentration and detection of uranium in environmental waters"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: Christine E. Duval; William A. Hardy; <\b>Steven Pellizzeri<\b>; Timothy A. DeVol; Scott M. Husson
+  image:
+  description:
+  authors: CE Duval, WA Hardy, <b>S Pellizzeri</b>, TA DeVol, SM Husson
   link:
     url: https://doi.org/10.1016/j.reactfunctpolym.2019.01.015
-    display:  arxiv:1907.05808
-  highlight: 1
+    display:  React. Funct. Polym. 2019, 137, 133–139.
+  highlight: 0
   news2:
 
 - title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
