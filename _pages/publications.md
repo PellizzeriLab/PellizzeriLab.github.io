@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=ELOkKaUAAAAJ&view_op=list_works&sortby=pubdate#),
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -56,8 +56,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{{ publi.title }} <br />
+  {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
 
 {% endfor %}

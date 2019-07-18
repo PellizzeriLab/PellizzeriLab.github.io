@@ -1,19 +1,23 @@
-- title: "Phosphonic acid and alkyl phosphate-derivatized resins for the simultaneous concentration and detection of uranium in environmental waters"
-  image:
-  description:
-  authors: CE Duval, WA Hardy, **S Pellizzeri**, TA DeVol, SM Husson
-  link:
-    url: https://doi.org/10.1016/j.reactfunctpolym.2019.01.015
-    display:  React. Funct. Polym. 2019, 137, 133–139.
+---
+-
+  authors: "CE Duval, WA Hardy, **S Pellizzeri**, TA DeVol, SM Husson"
+  description: ~
   highlight: 0
-  news2:
-
-- title: "Catalytic descriptors and electronic properties of single-site catalysts for ethene dimerization to 1-butene"
-  image: Ethene.jpg
-  description:
-  authors: S Pellizzeri, M Barona, V Bernales, P Miró, P Liao, L Gagliardi, RQ Snurr, RB Getman
+  image: ~
   link:
-    url: https://doi.org/10.1016/j.cattod.2018.02.024
-    display:  Catal. Today 2018, 312, 149–157.
+    display: "React. Funct. Polym. 2019, 137, 133–139."
+    url: "https://doi.org/10.1016/j.reactfunctpolym.2019.01.015"
+  news2: ~
+  title: "Phosphonic acid and alkyl phosphate-derivatized resins for the simultaneous concentration and detection of uranium in environmental waters"
+  year: 2019
+-
+  authors: "**S Pellizzeri**, M Barona, V Bernales, P Miró, P Liao, L Gagliardi, RQ Snurr, RB Getman"
+  description: ~
   highlight: 1
-  news2:
+  image: Ethene.jpg
+  link:
+    display: "Catal. Today 2018, 312, 149–157."
+    url: "https://doi.org/10.1016/j.cattod.2018.02.024"
+  news2: ~
+  title: "Catalytic descriptors and electronic properties of single-site catalysts for ethene dimerization to 1-butene"
+  year: 2018
