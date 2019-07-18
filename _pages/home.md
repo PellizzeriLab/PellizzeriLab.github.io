@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at Eastern Illinois University [EIU Chemistry](https://www.eiu.edu/eiuchem/). Our aim is to use quantum mechanical modeling to explore and understand small molecule catalysis, material properties and adsoprtive materials for water treatment. (see [Research](research)).
+We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](https://www.eiu.edu/eiuchem/)). Our aim is to use quantum mechanical modeling to explore and understand small molecule catalysis, material properties and adsorptive materials for water treatment. (see [Research](research)).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -55,9 +55,6 @@ We are a dynamic research group at Eastern Illinois University [EIU Chemistry](h
 
 We are grateful for funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/)
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+<figure class="single">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px">
 </figure>
