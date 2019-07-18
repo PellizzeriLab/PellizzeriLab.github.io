@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Full List (* undergraduate student)
 
 ### 2019
 {% for publi in site.data.publist %}
