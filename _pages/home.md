@@ -11,6 +11,6 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
 We are grateful for funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/)
 
-<figure class="img">
+<figure class="img-responsive center-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px">
 </figure>
