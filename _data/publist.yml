@@ -98,3 +98,69 @@
   news2: ~
   title: "A solid-state density functional theory investigation of the effect of metal substitution (Metal = Mn, Cd, Co) on the terahertz spectra of isomorphous molecular metal 5-(4-pyridyl)tetrazolato complexes"
   year: 2013
+-
+  authors: "S. Jones, J.M. Vargas, **S. Pellizzeri**, C.J. O’Connor, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0020169312006020-fx1.jpg
+  link:
+    display: "Inorganica Chim. Acta. 2013, 395, 44–57"
+    url: "https://doi.org/10.1016/j.ica.2012.10.023"
+  news2: ~
+  title: "Solid state coordination chemistry: Structural consequences of varying diphosphonate tether length and fluoride incorporation in the copper–bisterpy/oxomolybdenum/organodiphosphonate system (bisterpy = 2,2′:4′,4″:2″,2″′-quarterpyridyl-6′,6″-di-2-pyridine)"
+  year: 2013
+-
+  authors: "K. Darling, W. Ouellette, **S. Pellizzeri**, T. Smith, J. Vargas, S. Tomaszfski, C.J. O’Connor, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0020169312003490-fx1.jpg
+  link:
+    display: "Inorganica Chim. Acta. 2012, 392, 417-427"
+    url: "https://doi.org/10.1016/j.ica.2012.05.019"
+  news2: ~
+  title: "One- and two-dimensional coordination polymers of substituted tetrazoles with cadmium(II)"
+  year: 2012
+-
+  authors: "M. Bartholomä, H. Chueng, **S. Pellizzeri**, K. Ellis-Guardiola, S. Jones, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0020169312000126-fx1.jpg
+  link:
+    display: "Inorganica Chim. Acta. 2012, 389, 90-98"
+    url: "https://doi.org/10.1016/j.ica.2012.01.011"
+  news2: ~
+  title: "Novel building units in the construction of materials of the oxomolybdate–organodiphosphonate/copper(II)–dipodal-organonitrogen ligand system: Structural influences of dipodal ligand tether length and flexibility"
+  year: 2012
+-
+  authors: "**S. Pellizzeri**, T.M. Korter, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0022286011005229-gr2.jpg
+  link:
+    display: "J. Mol. Struct. 2011, 1003, 21-30"
+    url: "https://doi.org/10.1016/j.molstruc.2011.06.047"
+  news2: ~
+  title: "A solid-state density functional theory investigation of the structure and vibrational modes of vanadium phosphate polymorphs"
+  year: 2011
+-
+  authors: "C.J. Collison, S. Spencer, A. Preske, C. Palumbo, A. Helenic, R. Bailey, **S. Pellizzeri**"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0022286011005229-gr2.jpg
+  link:
+    display: "J. Phys. Chem. B. 2010, 114, 11002–11009"
+    url: "https://doi.org/10.1021/jp104705y"
+  news2: ~
+  title: "A New Model for Quantifying the Extent of Interaction between Soluble Polyphenylene-Vinylenes and Single-Walled Carbon Nanotubes in Solvent Dispersions"
+  year: 2010
+-
+  authors: "C.J. Collison, **S. Pellizzeri**, F. Ambrosio"
+  description: ~
+  highlight: 0
+  image: jp-2008-11241v_0004.gif
+  link:
+    display: "J. Phys. Chem. B. 2009, 113, 5809–5815"
+    url: "https://doi.org/10.1021/jp811241v"
+  news2: ~
+  title: "Spectroscopic Evidence for Interaction of Poly[2-methoxy-5-(2′-ethylhexyloxy)-1,4-phenylenevinylene] Conformers and Single-Walled Carbon Nanotubes in Solvent Dispersions"
+  year: 2009

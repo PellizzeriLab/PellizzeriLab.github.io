@@ -113,3 +113,43 @@ permalink: /publications/
 {% endif %}
 
 {% endfor %}
+
+### 2012
+{% for publi in site.data.publist %}
+
+{% if publi.year == 2012 %}
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% endfor %}
+
+### 2011
+{% for publi in site.data.publist %}
+
+{% if publi.year == 2011 %}
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% endfor %}
+
+### 2010
+{% for publi in site.data.publist %}
+
+{% if publi.year == 2010 %}
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% endfor %}
+
+### 2009
+{% for publi in site.data.publist %}
+
+{% if publi.year == 2009 %}
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% endfor %}
