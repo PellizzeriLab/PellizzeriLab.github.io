@@ -54,3 +54,47 @@
   news2: ~
   title: "Using Gas-Phase Clusters to Screen Porphyrin-Supported Nanocluster Catalysts for Ethane Oxidation to Ethanol"
   year: 2016
+-
+  authors: "**S. Pellizzeri**, T.M. Smith, S.P. Delaney, T.M. Korter, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0022286013009733-fx1.jpg
+  link:
+    display: "J. Mol. Struct. 2014, 1058, 265–271"
+    url: "https://doi.org/10.1016/j.molstruc.2013.11.022"
+  news2: ~
+  title: "Crystal structure and terahertz spectroscopy of α,α,α′,α′-tetrabromo-p-xylene modeled using solid-state density functional theory"
+  year: 2014
+  -
+    authors: "**S. Pellizzeri**, S.P. Delaney, T.M. Korter, J. Zubieta"
+    description: ~
+    highlight: 1
+    image: jp-2013-12142w_0010.gif
+    link:
+      display: "J. Phys. Chem. A. 2014, 118, 417–426."
+      url: "https://doi.org/10.1021/jp412142w"
+    news2: ~
+    title: "Using Terahertz Spectroscopy and Solid-State Density Functional Theory to Characterize a New Polymorph of 5-(4-pyridyl)tetrazole"
+    year: 2014
+-
+  authors: "**S. Pellizzeri**, S.P. Delaney, T.M. Korter, J. Zubieta"
+  description: ~
+  highlight: 0
+  image: 1-s2.0-S0022286013006224-fx1.jpg
+  link:
+    display: "J. Mol. Struct. 2013, 1050, 27-34"
+    url: "https://doi.org/10.1016/j.molstruc.2013.07.017"
+  news2: ~
+  title: "Using solid-state density functional theory and terahertz spectroscopy to spectroscopically distinguish the various hydrohalide salts of 5-(4-pyridyl)tetrazole"
+  year: 2013
+-
+    authors: "**S. Pellizzeri**, E.M. Witko, T.M. Korter, J. Zubieta"
+    description: ~
+    highlight: 0
+    image: 1-s2.0-S0022286013004791-fx1.jpg
+    link:
+      display: "J. Mol. Struct. 2013, 1048, 214-222"
+      url: "https://doi.org/10.1016/j.molstruc.2013.05.055"
+    news2: ~
+    title: "A solid-state density functional theory investigation of the effect of metal substitution (Metal = Mn, Cd, Co) on the terahertz spectra of isomorphous molecular metal 5-(4-pyridyl)tetrazolato complexes"
+    year: 2013
