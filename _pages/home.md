@@ -6,10 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<figure class="img-responsive center-block">
-  <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DRPwords.png" style="width: 160px"></center>
-</figure>
-
 We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](https://www.eiu.edu/eiuchem/)). Our aim is to use quantum mechanical modeling to explore and understand small molecule catalysis, material properties and adsorptive materials for water treatment. (see [Research](research)).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
