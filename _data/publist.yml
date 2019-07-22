@@ -1,11 +1,22 @@
 ---
 -
+  authors: "M. Ateia, M. Arifuzzaman, **S. Pellizzeri**, M.F. Attia, N. Tharayil, J.N. Anker, T. Karanfil"
+  description: ~
+  highlight: 1
+  image: 1-s2.0-S0043135419306402-fx1.jpg
+  link:
+    display: "Water Res. 163 (2019) 114874"
+    url: "https://doi.org/10.1016/j.watres.2019.114874"
+  news2: ~
+  title: "Cationic polymer for selective removal of GenX and short-chain PFAS from surface waters and wastewaters at ng/L levels"
+  year: 2019
+-
   authors: "C.E. Duval, W.A. Hardy*, **S. Pellizzeri**, T.A. DeVol, S.M. Husson"
   description: ~
   highlight: 0
   image: ~
   link:
-    display: "React. Funct. Polym. 2019, 137, 133–139."
+    display: "React. Funct. Polym. 2019, 137, 133–139"
     url: "https://doi.org/10.1016/j.reactfunctpolym.2019.01.015"
   news2: ~
   title: "Phosphonic acid and alkyl phosphate-derivatized resins for the simultaneous concentration and detection of uranium in environmental waters"
@@ -16,7 +27,7 @@
   highlight: 1
   image: Ethene.jpg
   link:
-    display: "Catal. Today 2018, 312, 149–157."
+    display: "Catal. Today 2018, 312, 149–157"
     url: "https://doi.org/10.1016/j.cattod.2018.02.024"
   news2: <a href="https://www.energyfrontier.us/content/how-bypass-hill-when-calculating-better-synthesis-routes"> Featured in Frontiers in Energy Research Newsletter</a>
   title: "Catalytic descriptors and electronic properties of single-site catalysts for ethene dimerization to 1-butene"
@@ -27,7 +38,7 @@
   highlight: 1
   image: anie201708092-fig-0005-m.png
   link:
-    display: "Angew. Chem. Int. Ed. 2018, 57, 909-913."
+    display: "Angew. Chem. Int. Ed. 2018, 57, 909-913"
     url: "https://doi.org/10.1002/anie.201708092"
   news2: <a href="https://www.energyfrontier.us/content/when-less-more"> Featured in Frontiers in Energy Research Newsletter</a>
   title: "Sinter‐Resistant Platinum Catalyst Supported by Metal–Organic Framework"
