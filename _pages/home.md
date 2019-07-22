@@ -6,6 +6,10 @@ sitemap: false
 permalink: /
 ---
 
+<figure class="img-responsive center-block">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DRPwords.png" style="width: 210px">
+</figure>
+
 We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](https://www.eiu.edu/eiuchem/)). Our aim is to use quantum mechanical modeling to explore and understand small molecule catalysis, material properties and adsorptive materials for water treatment. (see [Research](research)).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -13,7 +17,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
+
 
     </ol>
 
@@ -21,13 +25,10 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DRPwords.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1-s2.0-S0043135419306402-fx1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1-s2.0-S0043135419306402-fx1.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/10562_2016_1890_Figa_HTML.gif" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/10562_2016_1890_Figa_HTML.gif" alt="Slide 2" />
         </div>
 
     </div>
