@@ -21,10 +21,10 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1-s2.0-S0043135419306402-fx1.jpg" alt="Slide 1" style="width: 400px"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1-s2.0-S0043135419306402-fx1.jpg" alt="Slide 1" style="width: 400px" style="height: 700px"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/10562_2016_1890_Figa_HTML.gif" alt="Slide 2" style="width: 400px"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/10562_2016_1890_Figa_HTML.gif" alt="Slide 2" style="width: 400px"tyle="height: 700px"/></center>
         </div>
 
     </div>
@@ -43,5 +43,5 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 We are grateful for funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/)
 
 <figure class="img-responsive center-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px">
+  <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px"></center>
 </figure>
