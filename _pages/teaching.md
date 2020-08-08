@@ -11,12 +11,20 @@ Jump to: [Current Courses](#current-courses), [Past Courses](#past-courses)
 
 ## Current Courses:
 
+CHM 1315, General Chemistry I Lab
+
+CHM 3910, Chemical Thermodynamics and Kinetics
+
+CHM 5210, Bonding and Reactivity
+
+## Previous Courses:
+
 CHM 1040G, World of Chemistry Lab
 
 CHM 1410, General Chemistry II
 
 CHM 1415, General Chemistry II Lab
 
-CHM 3910, Chemical Thermodynamics and Kinetics
+CHM 3915, Physical Chemistry Laboratory
 
-## Previous Courses:
+CHM 3920, Quantum Chemistry
