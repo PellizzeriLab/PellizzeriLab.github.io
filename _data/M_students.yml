@@ -1,0 +1,19 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: Contact Dr. Pellizzeri for more info
+  email: spellizzeri@eiu.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
