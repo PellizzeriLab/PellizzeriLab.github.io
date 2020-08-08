@@ -1,5 +1,27 @@
 ---
 -
+  authors: "H. Shabbir, **S. Pellizzeri**, M. Ferrandon, I.S. Kim, N.A. Vermeulen, O.K. Farha, M. Delferro, A.B.F Martinson, R.B. Getman"
+  description: ~
+  highlight: 1
+  image: ~
+  link:
+    display: "Catal. Sci. Technol., 2020,10, 3594-3602"
+    url: "https://doi.org/10.1039/D0CY00394H"
+  news2: ~
+  title: "Influence of spin state and electron configuration on the active site and mechanism for catalytic hydrogenation on metal cation catalysts supported on NU-1000: insights from experiments and microkinetic modeling"
+  year: 2020
+-
+  authors: "T.M. Pellizzeri, L.D. Sanjeewa, **S. Pellizzeri**, C.D. McMillen, V.O. Garlea, F. Ye, A.S Sefat, J.W Kolis"
+  description: ~
+  highlight: 0
+  image: ~
+  link:
+    display: "Dalton Trans., 2020,49, 4323-4335"
+    url: "https://doi.org/10.1039/C9DT03389K"
+  news2: ~
+  title: "Single crystal neutron and magnetic measurements of Rb2Mn3(VO4)2CO3 and K2Co3(VO4)2CO3 with mixed honeycomb and triangular magnetic lattices"
+  year: 2020
+-
   authors: "M. Ateia, M. Arifuzzaman, **S. Pellizzeri**, M.F. Attia, N. Tharayil, J.N. Anker, T. Karanfil"
   description: ~
   highlight: 1
