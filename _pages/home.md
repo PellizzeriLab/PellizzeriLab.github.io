@@ -13,6 +13,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
 
 
     </ol>
