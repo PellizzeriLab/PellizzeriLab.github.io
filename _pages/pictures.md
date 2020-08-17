@@ -19,7 +19,6 @@ permalink: /pictures/
 {% endif %}
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="200" style="float: left" alt="{{ pic.title }}"/>
-*{{ pic.title }}*
 
 </div>
 
