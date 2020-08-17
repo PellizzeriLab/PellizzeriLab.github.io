@@ -14,7 +14,8 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
 
     </ol>
 
@@ -29,6 +30,12 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CatalSciTechnol2020.png" alt="Slide 3" style="width:500px;height:300px;"/></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_1.jpg" alt="Slide 4" style="width:500px;height:300px;"/></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_2.jpg" alt="Slide 5" style="width:500px;height:300px;"/></center>
         </div>
 
     </div>
