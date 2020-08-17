@@ -9,6 +9,8 @@ permalink: /teaching/
 # Teaching
 Jump to: [Current Courses](#current-courses), [Past Courses](#past-courses)
 
+Course descriptions can be found at [Chemistry and Biochemistry Course Listing](https://www.eiu.edu/eiuchem/courses.php)
+
 ## Current Courses:
 
 CHM 1315, General Chemistry I Lab
