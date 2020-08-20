@@ -22,7 +22,7 @@ permalink: /pictures/
 
 <div class="col-sm-3 clearfix">
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{ pic.title }}" />
+	<p><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{ pic.title }}" />
 	<figcaption>{{ pic.image }}</figcaption>
 </figure>
 
