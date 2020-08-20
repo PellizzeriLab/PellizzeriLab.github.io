@@ -9,6 +9,19 @@ permalink: /pictures/
 
 ## Gallery
 (Right-click *'view image'* to see a larger image.)
+
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -19,7 +32,12 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{ pic.title }}" />
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{ pic.title }}" />
+	<figcaption>{{ pic.image }}</figcaption>
+</figure>
+
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
