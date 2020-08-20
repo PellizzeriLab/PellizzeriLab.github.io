@@ -10,17 +10,6 @@ permalink: /pictures/
 ## Gallery
 (Right-click *'view image'* to see a larger image.)
 
-figure {
-  float: right;
-  width: 30%;
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
-}
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
