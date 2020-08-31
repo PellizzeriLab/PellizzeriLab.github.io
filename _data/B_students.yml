@@ -9,17 +9,17 @@
 #  education4:
 
 - name: Ryan Baker
-  photo: ~
+  photo: TCBU.jpg
   info: Adsorption of disinfection byproducts on carbon
-  email: ~
+#  email: ~
   number_educ: 1
-  education1: B.S. Chemistry, 2020
+  education1: B.S. Chemistry, 2021
   education2:
   education3:
   education4:
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: TCBU.jpg
   info: Contact Dr. Pellizzeri for more info
   email: spellizzeri@eiu.edu
   number_educ: 0
