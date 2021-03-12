@@ -17,7 +17,15 @@
   education2:
   education3:
   education4:
-
+- name: George Barton
+  photo: George Barton v2.jpg
+  info: Non-oxidative coupling of methane on metal clusters
+  email: gdbarton2@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2023
+  education2:
+  education3:
+  education4:
 - name: "This could be you !"
   photo: TCBU.png
   info: Contact Dr. Pellizzeri for more info

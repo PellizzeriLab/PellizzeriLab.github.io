@@ -37,6 +37,9 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_2.jpg" alt="Slide 5" style="width:500px;height:300px;"/></center>
         </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/M_LOGO.jpg" alt="Slide 6" style="width:500px;height:300px;"/></center>
+        </div>
 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -51,7 +54,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
  **We are looking for passionate new undergraduate students to join the team**
 
-We are grateful for funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/)
+We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/) and the Council on Faculty Research, Summer Research/Creative Activity Award for faculty support during the summer of 2021.
 
 <figure class="img-responsive center-block">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px"></center>
