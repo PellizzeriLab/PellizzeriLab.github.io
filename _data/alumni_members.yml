@@ -7,3 +7,13 @@
 #  education2:
 #  education3:
 #  education4:
+
+- name: Ryan Baker
+  photo: Ryan Baker v2.jpg
+  info: Adsorption of disinfection byproducts on carbon surfaces
+  email: rabaker2@eiu.edu
+  number_educ: 3
+  education1: A.S. Chemistry, 2020, Lake Land College
+  education2: B.S. Chemistry, 2021, EIU
+  education3: Ph.D. Chemistry, Starting Fall 2021, University of Iowa 
+  education4:
