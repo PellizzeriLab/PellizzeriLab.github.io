@@ -184,7 +184,6 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 {% endif %}
 
 ## Alumni
-
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -197,9 +196,9 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
-
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -221,7 +220,7 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
