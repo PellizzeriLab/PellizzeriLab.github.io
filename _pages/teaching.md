@@ -13,15 +13,17 @@ Course descriptions can be found at [Chemistry and Biochemistry Course Listing](
 
 ## Current Courses:
 
-CHM 1390G, Honors General Chemistry I
+CHM 3915, Physical Chemistry Laboratory
 
-CHM 3910, Chemical Thermodynamics and Kinetics
+CHM 3920, Quantum Chemistry
 
 ## Previous Courses:
 
 CHM 1040G, World of Chemistry Lab
 
 CHM 1315G, General Chemistry I Lab
+
+CHM 1390G, Honors General Chemistry I
 
 CHM 1410, General Chemistry II
 
