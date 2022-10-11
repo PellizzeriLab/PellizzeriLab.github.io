@@ -56,7 +56,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 <figure class="img-responsive center-block">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Lab Lunch F22 _ 2.jpg" style="width: 500px"></center>
 </figure>
-Pellizzeri Group - Fall 2022
+<h2><center>Pellizzeri Group - Fall 2022</center><h2>
 
  **We are looking for passionate new undergraduate students to join the team**
 

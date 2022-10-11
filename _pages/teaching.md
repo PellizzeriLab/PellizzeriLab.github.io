@@ -13,9 +13,9 @@ Course descriptions can be found at [Chemistry and Biochemistry Course Listing](
 
 ## Current Courses:
 
-CHM 3915, Physical Chemistry Laboratory
+CHM 3910, Thermodynamics and Kinetics
 
-CHM 3920, Quantum Chemistry
+CHM 5210, Bonding and Reactivity
 
 ## Previous Courses:
 
@@ -28,6 +28,8 @@ CHM 1390G, Honors General Chemistry I
 CHM 1410, General Chemistry II
 
 CHM 1415, General Chemistry II Lab
+
+CHM 3910, Thermodynamics and Kinetics
 
 CHM 3915, Physical Chemistry Laboratory
 
