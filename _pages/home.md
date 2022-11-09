@@ -22,13 +22,11 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO.png" alt="Slide 2" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_1.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_1.jpg" alt="Slide 2" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_2.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
