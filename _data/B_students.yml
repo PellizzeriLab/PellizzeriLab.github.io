@@ -49,12 +49,12 @@
   education3:
   education4:
 
-- name: "This could be you !"
-  photo: TCBU.png
-  info: Contact Dr. Pellizzeri for more info
-  email: spellizzeri@eiu.edu
-  number_educ: 0
-  education1:
+- name: Lauren Hendershot
+  photo: Lauren_Hendershot.jpg
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: lmhendershot@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2024, EIU
   education2:
   education3:
   education4:
