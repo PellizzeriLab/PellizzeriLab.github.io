@@ -13,9 +13,7 @@ Course descriptions can be found at [Chemistry and Biochemistry Course Listing](
 
 ## Current Courses:
 
-CHM 3915, Physical Chemistry Laboratory
-
-CHM 3920, Quantum Chemistry
+CHM 3910, Thermodynamics and Kinetics
 
 ## Previous Courses:
 
