@@ -30,10 +30,6 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_2.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1-s2.0-S0043135419306402-fx1.jpg" alt="Slide 4" style="width:500px;height:300px;"/></center>
-        </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/George_Presentation.jpg" alt="Slide 5" style="width:500px;height:300px;"/></center>
         </div>
@@ -41,16 +37,10 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/George_Project.png" alt="Slide 6" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ryan_Project.png" alt="Slide 7" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Devin_Project.png" alt="Slide 8" style="width:500px;height:159px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Devin_Project.png" alt="Slide 8" style="width:500px;height:300px;"/></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Brianna_Project.png" alt="Slide 9" style="width:500px;height:300px;"/></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:340px;height:300px;"/></center>
         </div>
 
     </div>
