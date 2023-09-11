@@ -38,9 +38,6 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/George_Project.png" alt="Slide 6" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Devin_Project.png" alt="Slide 8" style="width:500px;height:159px;"/></center>
-        </div>
-        <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:340px;height:300px;"/></center>
         </div>
 
