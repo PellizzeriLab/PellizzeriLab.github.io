@@ -54,6 +54,16 @@ permalink: /publications/
 
 ## Full List (* undergraduate student)
 
+### 2023
+{% for publi in site.data.publist %}
+
+{% if publi.year == 2023 %}
+{{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% endfor %}
+
 ### 2020
 {% for publi in site.data.publist %}
 
