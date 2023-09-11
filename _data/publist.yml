@@ -1,6 +1,6 @@
 ---
 -
-  authors: "E. Serna-Sanchez, **S. Pellizzeri**"
+  authors: "E. Serna-Sanchez*, **S. Pellizzeri**"
   description: ~
   highlight: 1
   image: d3ra05187k-f2.gif
@@ -112,7 +112,7 @@
 -
   authors: "**S. Pellizzeri**, S.P. Delaney, T.M. Korter, J. Zubieta"
   description: ~
-  highlight: 1
+  highlight: 0
   image: jp-2013-12142w_0010.gif
   link:
     display: "J. Phys. Chem. A. 2014, 118, 417–426."
