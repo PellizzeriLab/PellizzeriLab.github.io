@@ -1,5 +1,16 @@
 ---
 -
+  authors: "E. Serna-Sanchez, **S. Pellizzeri**"
+  description: ~
+  highlight: 1
+  image: d3ra05187k-f2.gif
+  link:
+    display: "RSC Adv., 2023,13, 25699-25703"
+    url: "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra05187k"
+  news2: ~
+  title: "Predicting pyrolysis decomposition of PFOA using computational nanoreactors: a thermodynamic study"
+  year: 2023
+-
   authors: "H. Shabbir, **S. Pellizzeri**, M. Ferrandon, I.S. Kim, N.A. Vermeulen, O.K. Farha, M. Delferro, A.B.F Martinson, R.B. Getman"
   description: ~
   highlight: 1

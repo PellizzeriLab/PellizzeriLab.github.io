@@ -8,17 +8,6 @@
 #  education3:
 #  education4:
 
-
-- name: Ryan Wang
-  photo: Ryan Wang.jpg
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: rwang@eiu.edu
-  number_educ: 1
-  education1: B.S. Chemistry, 2025, EIU
-  education2:
-  education3:
-  education4:
-
 - name: Lauren Hendershot
   photo: Lauren_Hendershot.jpg
   info: Non-oxidative Coupling of Methane on Metal Clusters
@@ -32,6 +21,26 @@
 - name: Mark Boyd
   photo: Mark Boyd.jpg
   info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: mmboyd3@eiu.edu
+  number_educ: 1
+  education1: B.A. Chemistry, 2024, EIU
+  education2:
+  education3:
+  education4:
+
+- name: Sam Eccles
+  photo: Sam Eccles.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  email: lmhendershot@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2024, EIU
+  education2:
+  education3:
+  education4:
+
+- name: Jack Ebinger
+  photo: Jack Ebinger.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
   email: mmboyd3@eiu.edu
   number_educ: 1
   education1: B.S. Chemistry, 2024, EIU
