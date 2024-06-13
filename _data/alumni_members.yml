@@ -15,7 +15,7 @@
   number_educ: 3
   education1: A.S. Chemistry, 2020, Lake Land College
   education2: B.S. Chemistry, 2021, EIU
-  education3: Ph.D. Chemistry, Starting Fall 2021, University of Iowa, Shepherd group
+  education3: Ph.D. Chemistry, Starting Fall 2021, University of Iowa, Shepherd Group
   education4:
   
 - name: George Barton
@@ -44,7 +44,7 @@
   email: esernasanchez@eiu.edu
   number_educ: 2
   education1: B.S. Chemistry, 2023, EIU
-  education2: Ph.D. Chemistry, Starting Fall 2024, Loyola University,
+  education2: Ph.D. Chemistry, Starting Fall 2024, Loyola University, Killelea Group
   education3:
   education4:
 
@@ -65,5 +65,24 @@
   number_educ: 2
   education1: B.S. Chemistry, EIU
   education2: Transferred to Southern Illinois University
+  education3:
+  education4:
+- name: Mark Boyd
+  photo: Mark Boyd.jpg
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: mmboyd3@eiu.edu
+  number_educ: 1
+  education1: B.A. Chemistry, 2024, EIU
+  education2:
+  education3:
+  education4:
+
+- name: Jack Ebinger
+  photo: Jack Ebinger.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  email: jeebinger2@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2024, EIU
+  education2:
   education3:
   education4:
