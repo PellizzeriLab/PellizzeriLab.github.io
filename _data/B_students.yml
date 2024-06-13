@@ -8,6 +8,16 @@
 #  education3:
 #  education4:
 
+- name: George Kacos
+  photo: George_Kacos.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  email: gkacos@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2025, EIU
+  education2: 
+  education3:
+  education4:
+
 - name: Akizia Aguilar
   photo: Akizia_Aguilar.jpg
   info: Non-oxidative Coupling of Methane on Metal Clusters
