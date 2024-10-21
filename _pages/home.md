@@ -20,19 +20,18 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
+        <div class="carousel-item active">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_Logo.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
         </div>
-        <div class="item">
+        <div class="carousel-item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/New_Lab_Photo.jpg" alt="Slide 2" style="width:500px;height:300px;"/></center>
         </div>
-        <div class="item">
+        <div class="carousel-item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Cluster_Image.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
         </div>
-        <div class="item">
+        <div class="carousel-item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:340px;height:300px;"/></center>
         </div>
-
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -46,7 +45,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
 <figure class="img-responsive center-block">
   <div style="display: flex; justify-content: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px margin">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px;">
    </div>
 </figure>
 <center>Pellizzeri Group - Summer 2024</center>
