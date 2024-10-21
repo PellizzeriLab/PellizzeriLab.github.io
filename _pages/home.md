@@ -20,7 +20,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO.png" alt="Slide 1" style="height:400px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO - Copy.png" alt="Slide 1" style="height:400px;"/></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/New_Lab_Photo.jpg" alt="Slide 2" style="height:400px;"/></center>
@@ -53,12 +53,6 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
 We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/) and the [ACS Peterolum Research Fund](https://www.acs.org/funding/grants/petroleum-research-fund.html) (PRF#65913-UNI6).
 
-
-<div class="row">
-  <div class="column">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px;">
-  </div>
-  <div class="column">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px;">
-  </div>
-</div>
+<figure class="img-responsive center-block">
+  <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Funding.png" style="width: 500px"></center>
+</figure>
