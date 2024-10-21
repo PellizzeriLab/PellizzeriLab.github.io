@@ -56,10 +56,10 @@ We are grateful for generous start-up funding from Eastern Illinois University, 
 <figure class="img-responsive center-block">
   <div class="row">
     <div class="column">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px; margin:5px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px;">
     </div>
     <div class="column">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px; margin:5px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px;">
     </div>
   </div>
 </figure>
