@@ -15,27 +15,19 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-
+        
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_Logo.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_1.jpg" alt="Slide 2" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/New_Lab_Photo.jpg" alt="Slide 2" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_photo_2.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/George_Presentation.jpg" alt="Slide 5" style="width:500px;height:300px;"/></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/George_Project.png" alt="Slide 6" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Cluster_Image.jpg" alt="Slide 3" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:340px;height:300px;"/></center>
@@ -53,14 +45,19 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 </div>
 
 <figure class="img-responsive center-block">
-  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_F22_2.jpg" style="width: 500px"></center>
+  <div style="display: flex; justify-content: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px margin">
+   </div>
 </figure>
-<center>Pellizzeri Group - Fall 2022</center>
+<center>Pellizzeri Group - Summer 2024</center>
 
  **We are looking for passionate new undergraduate students to join the team**
 
-We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/) and the Council on Faculty Research, Summer Research/Creative Activity Award for faculty support during the summer of 2021.
+We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/) and the [ACS Peterolum Research Fund](https://www.acs.org/funding/grants/petroleum-research-fund.html) (PRF#65913-UNI6).
 
 <figure class="img-responsive center-block">
-  <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px"></center>
+  <div style="display: flex; justify-content: center;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px; margin:5px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px margin:5px;">
+  </div>
 </figure>
