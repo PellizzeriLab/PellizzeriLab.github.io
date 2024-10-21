@@ -32,7 +32,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" alt="Slide 10" style="width:340px;height:300px;"/></center>
         </div>
     </div>
-    
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -45,8 +45,8 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 
 <figure class="img-responsive center-block">
   <div style="display: flex; justify-content: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px margin">
-   </div>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px;">
+  </div>
 </figure>
 <center>Pellizzeri Group - Summer 2024</center>
 
@@ -57,6 +57,6 @@ We are grateful for generous start-up funding from Eastern Illinois University, 
 <figure class="img-responsive center-block">
   <div style="display: flex; justify-content: center;">
       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EIUSquare2Color.png" style="width: 210px; margin:5px;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px margin:5px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/PRF-Logo-08.jpg" style="width: 210px; margin:5px;">
   </div>
 </figure>
