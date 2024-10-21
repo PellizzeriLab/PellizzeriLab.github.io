@@ -20,7 +20,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_Logo.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/M_LOGO.png" alt="Slide 1" style="width:500px;height:300px;"/></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/New_Lab_Photo.jpg" alt="Slide 2" style="width:500px;height:300px;"/></center>
@@ -44,10 +44,9 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 </div>
 
 <figure class="img-responsive center-block">
-  <div style="display: flex; justify-content: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.jpg" style="width: 500px;">
-  </div>
+  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.png" style="width: 500px;"></center>
 </figure>
+
 <center>Pellizzeri Group - Summer 2024</center>
 
  **We are looking for passionate new undergraduate students to join the team**
