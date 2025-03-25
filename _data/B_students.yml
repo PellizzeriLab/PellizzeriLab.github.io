@@ -18,16 +18,6 @@
   education3:
   education4:
 
-- name: Akizia Aguilar
-  photo: Akizia_Aguilar.jpg
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: aaaguilar3@eiu.edu
-  number_educ: 1
-  education1: B.S. Chemistry, 2027, EIU
-  education2:
-  education3:
-  education4:
-
 - name: Genevieve Biberdorf
   photo: Genevieve_Biberdorf.jpg
   info: Determining Thermal Decomposition Pathways of PFAS
@@ -38,3 +28,32 @@
   education3:
   education4:  
 
+- name: Caityln Wattleworth
+  photo: TCBU.png
+  info: Adsorption of disinfection byproducts on carbon surfaces
+  email: glbiberdorf@eiu.edu
+  number_educ: 1
+  education1: B.S. Biological Sciences, 2027, EIU
+  education2:
+  education3:
+  education4:  
+
+- name: Noah Kubbs
+  photo: TCBU.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: glbiberdorf@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2026, EIU
+  education2:
+  education3:
+  education4:  
+  
+- name: Preston Siewert
+  photo: TCBU.png
+  info: Determining Thermal Decomposition Pathways of PFAS
+  email: glbiberdorf@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2026, EIU
+  education2:
+  education3:
+  education4:  
