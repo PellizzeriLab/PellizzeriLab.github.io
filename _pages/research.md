@@ -16,4 +16,4 @@ The Pellizzeri Group uses the technique of computational chemistry, which uses t
 * Computational discovery of materials for catalytic reactions
 * Predicting reaction kinetics and thermodynamics of molecular transformations
 * Designing materials for wastewater treatment
-* Predicting/Analyzing properties of mixed metal oxides
+

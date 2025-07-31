@@ -8,16 +8,6 @@
 #  education3:
 #  education4:
 
-- name: George Kacos
-  photo: George_Kacos.jpg
-  info: Determining Thermal Decomposition Pathways of PFAS
-  email: gkacos@eiu.edu
-  number_educ: 1
-  education1: B.S. Chemistry, 2025, EIU
-  education2: 
-  education3:
-  education4:
-
 - name: Genevieve Biberdorf
   photo: Genevieve_Biberdorf.jpg
   info: Determining Thermal Decomposition Pathways of PFAS
@@ -29,9 +19,9 @@
   education4:  
 
 - name: Caityln Wattleworth
-  photo: TCBU.png
+  photo: Caityln_Wattleworth.png
   info: Adsorption of disinfection byproducts on carbon surfaces
-  email: glbiberdorf@eiu.edu
+  email: cmwattleworth@eiu.edu
   number_educ: 1
   education1: B.S. Biological Sciences, 2027, EIU
   education2:
@@ -39,21 +29,29 @@
   education4:  
 
 - name: Noah Kubbs
-  photo: TCBU.png
+  photo: Noah_Kubbs.png
   info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: glbiberdorf@eiu.edu
+  email: nskubbs@eiu.edu
   number_educ: 1
   education1: B.S. Chemistry, 2026, EIU
   education2:
   education3:
   education4:  
+
+- name: Charlie Stauffer
+  photo: Charlie_Stauffer.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: crstauffer@eiu.edu
+  number_educ: 1
+  education1: B.S. Chemistry, 2026, EIU
+  education2:
+  education3:
   
-- name: Preston Siewert
-  photo: TCBU.png
-  info: Determining Thermal Decomposition Pathways of PFAS
-  email: glbiberdorf@eiu.edu
+- name: Clayton Carey
+  photo: Clayton_Carey.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: crstauffer@eiu.edu
   number_educ: 1
-  education1: B.S. Chemistry, 2026, EIU
+  education1: B.S. Chemistry, 2029, EIU
   education2:
   education3:
-  education4:  

@@ -11,19 +11,21 @@ Jump to: [Current Courses](#current-courses), [Past Courses](#past-courses)
 
 Course descriptions can be found at [Chemistry and Biochemistry Course Listing](https://www.eiu.edu/eiuchem/courses.php)
 
-## Current Courses (Spring 2025):
+## Current Courses (Fall 2025):
 
-CHM 1310G, General Chemistry I
+CHM 1040G, World of Chemistry Lab
 
-CHM 1415, General Chemistry II Lab
+CHM 1315G, General Chemistry I Lab
 
-CHM 3915, Physical Chemistry Laboratory
+CHM 1410, General Chemistry II
 
-CHM 3920, Quantum Chemistry
+CHM 3910, Thermodynamics and Kinetics
 
 ## Previous Courses:
 
 CHM 1040G, World of Chemistry Lab
+
+CHM 1310G, General Chemistry I
 
 CHM 1315G, General Chemistry I Lab
 

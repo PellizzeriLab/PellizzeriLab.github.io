@@ -8,92 +8,112 @@
 #  education3:
 #  education4:
 
-- name: Ryan Baker
-  photo: Ryan Baker v2.jpg
-  info: Adsorption of disinfection byproducts on carbon surfaces
-  email: rabaker2@eiu.edu
-  number_educ: 3
-  education1: A.S. Chemistry, 2020, Lake Land College
-  education2: B.S. Chemistry, 2021, EIU
-  education3: Ph.D. Chemistry, Starting Fall 2021, University of Iowa, Shepherd Group
-  education4:
-  
-- name: George Barton
-  photo: George Barton v2.jpg
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: gdbarton2@eiu.edu
-  number_educ: 2
-  education1: A.S. Chemistry, 2020, Parkland College
-  education2: B.S. Chemistry, 2023, EIU
-  education3:
-  education4:
-
-- name: Devin Craig
-  photo: Devin Craig v2.jpg
-  info: Modeling Optical Properties of Glaserites
-  email: dcraig@eiu.edu
-  number_educ: 1
-  education1: B.S. Chemistry, 2023, EIU
-  education2:
-  education3:
-  education4:
-
-- name: Elizabeth Serna-Sanchez
-  photo: Elizabeth Serna-Sanchez v2.jpg
+ - name: Preston Siewert
+  photo: 
   info: Determining Thermal Decomposition Pathways of PFAS
-  email: esernasanchez@eiu.edu
+  semesters: Spring 2025
   number_educ: 2
-  education1: B.S. Chemistry, 2023, EIU
-  education2: Ph.D. Chemistry, Starting Fall 2024, Loyola University, Killelea Group
-  education3:
-  education4:
-
-- name: Brianna Haase
-  photo: Brianna Haase v2.jpg
-  info: Non-oxidative Coupling of Methane on Modified Graphene
-  email: bphaase@eiu.edu
-  number_educ: 1
-  education1: M.S Chemistry, 2023, EIU
-  education2:
+  education1: A.S., A.A., Lincoln Land Community College
+  education2: B.S. Chemistry, 2026, EIU
   education3:
   education4:
   
-- name: Ryan Wang
-  photo: Ryan Wang.jpg
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: rwang@eiu.edu
-  number_educ: 2
-  education1: B.S. Chemistry, EIU
-  education2: Transferred to Southern Illinois University
+- name: George Kacos
+  photo: George_Kacos.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  semesters: Summer 2024 - Spring 2025
+  number_educ: 1
+  education1: B.S. Chemistry, 2025, EIU
+  education2: 
   education3:
   education4:
-
-- name: Mark Boyd
-  photo: Mark Boyd.jpg
+  
+- name: Akizia Aguilar
+  photo: Akizia_Aguilar.jpg
   info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: mmboyd3@eiu.edu
+  semesters: Spring 2024 - Summer 2024
   number_educ: 1
-  education1: B.A. Chemistry, 2024, EIU
+  education1: B.S. Biological Sciences, 2027, EIU
   education2:
   education3:
-  education4:
+  education4:  
 
-- name: Jack Ebinger
+- name: Jack(John) Ebinger
   photo: Jack Ebinger.jpg
   info: Determining Thermal Decomposition Pathways of PFAS
-  email: jeebinger2@eiu.edu
+  semesters: Fall 2023 - Spring 2024
   number_educ: 1
   education1: B.S. Chemistry, 2024, EIU
   education2:
   education3:
   education4:
 
-- name: Akizia Aguilar
-  photo: Akizia_Aguilar.jpg
+- name: Mark Boyd
+  photo: Mark Boyd.jpg
   info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: aaaguilar3@eiu.edu
+  semesters: Summer 2023 - Spring 2024
   number_educ: 1
-  education1: B.S. Biological Sciences, 2027, EIU
+  education1: B.A. Chemistry, 2024, EIU
   education2:
   education3:
-  education4:  
+  education4:
+
+- name: Brianna Haase
+  photo: Brianna Haase v2.jpg
+  info: Non-oxidative Coupling of Methane on Modified Graphene
+  semesters: Spring 2022 - Summer 2023
+  number_educ: 1
+  education1: M.S Chemistry, 2023, EIU
+  education2:
+  education3:
+  education4:
+
+- name: Ryan Wang
+  photo: Ryan Wang.jpg
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  semesters: Summer 2022 - Summer 2023
+  number_educ: 2
+  education1: B.S. Chemistry, EIU
+  education2: Transferred to Southern Illinois University
+  education3:
+  education4:
+
+- name: Elizabeth Serna-Sanchez
+  photo: Elizabeth Serna-Sanchez v2.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  semesters: Fall 2021 - Spring 2023
+  number_educ: 2
+  education1: B.S. Chemistry, 2023, EIU
+  education2: Ph.D. Chemistry, Starting Fall 2024, Loyola University, Killelea Group
+  education3:
+  education4:
+
+- name: Devin Craig
+  photo: Devin Craig v2.jpg
+  info: Modeling Optical Properties of Glaserites
+  semesters: Fall 2021 - Spring 2023
+  number_educ: 1
+  education1: B.S. Chemistry, 2023, EIU
+  education2:
+  education3:
+  education4:
+
+- name: George Barton
+  photo: George Barton v2.jpg
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  semesters: Spring 2021 - Spring 2023
+  number_educ: 2
+  education1: A.S. Chemistry, 2020, Parkland College
+  education2: B.S. Chemistry, 2023, EIU
+  education3:
+  education4:
+
+- name: Ryan Baker
+  photo: Ryan Baker v2.jpg
+  info: Adsorption of disinfection byproducts on carbon surfaces
+  semesters: Spring 2020 - Spring 2021
+  number_educ: 3
+  education1: A.S. Chemistry, 2020, Lake Land College
+  education2: B.S. Chemistry, 2021, EIU
+  education3: Ph.D. Chemistry, Starting Fall 2021, University of Iowa, Shepherd Group
+  education4:

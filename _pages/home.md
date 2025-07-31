@@ -44,14 +44,13 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 </div>
 
 <figure class="img-responsive center-block">
-  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_Lunch_Summer_24.png" style="width: 400px;"></center>
+  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/images/picpic/Gallery/Summer_EIU_Research_Conference.png" style="width: 400px;"></center>
 </figure>
 
-<center>Pellizzeri Group - Summer 2024</center>
+<center>Pellizzeri Group - Summer 2025</center>
 
- **We are looking for passionate new undergraduate students to join the team**
 
-We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/) and the [ACS Peterolum Research Fund](https://www.acs.org/funding/grants/petroleum-research-fund.html) (PRF#65913-UNI6).
+We are grateful for generous start-up funding from Eastern Illinois University, [EIU Chemistry](https://www.eiu.edu/eiuchem/), [ACS Peterolum Research Fund](https://www.acs.org/funding/grants/petroleum-research-fund.html) (PRF#65913-UNI6), and the [Bridges-2](https://www.psc.edu/resources/bridges-2/) at Pittsburgh Supercomputing Center through allocations CHE220084, CHE220091, CHE230015, CHE250097 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support ([ACCESS](https://access-ci.org/)) program, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.
 
 <figure class="img-responsive center-block">
   <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Funding.png" style="width: 500px"></center>
