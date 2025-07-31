@@ -44,7 +44,7 @@ We are a dynamic research group at Eastern Illinois University ([EIU Chemistry](
 </div>
 
 <figure class="img-responsive center-block">
-  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/images/picpic/Gallery/Summer_EIU_Research_Conference.png" style="width: 400px;"></center>
+  <center><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Summer_EIU_Research_Conference.png" style="width: 400px;"></center>
 </figure>
 
 <center>Pellizzeri Group - Summer 2025</center>
