@@ -1,0 +1,39 @@
+- code: CHM 1040G
+  title: World of Chemistry Lab
+  level: Introductory Lab
+
+- code: CHM 1310G
+  title: General Chemistry I
+  level: Introductory Lecture
+
+- code: CHM 1315G
+  title: General Chemistry I Lab
+  level: Introductory Lab
+
+- code: CHM 1390G
+  title: Honors General Chemistry I
+  level: Introductory Honors
+
+- code: CHM 1410
+  title: General Chemistry II
+  level: Introductory Lecture
+
+- code: CHM 1415
+  title: General Chemistry II Lab
+  level: Introductory Lab
+
+- code: CHM 3910
+  title: Thermodynamics and Kinetics
+  level: Upper-Level Undergraduate
+
+- code: CHM 3915
+  title: Physical Chemistry Laboratory
+  level: Upper-Level Undergraduate Lab
+
+- code: CHM 3920
+  title: Quantum Chemistry
+  level: Upper-Level Undergraduate
+
+- code: CHM 5210
+  title: Bonding and Reactivity
+  level: Graduate

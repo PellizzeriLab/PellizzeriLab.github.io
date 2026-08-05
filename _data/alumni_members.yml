@@ -8,6 +8,59 @@
 #  education3:
 #  education4:
 
+- name: Sam Eccles
+  photo: Sam Eccles.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  email: sceccles@eiu.edu
+  semesters: Spring 2025 - Spring 2026
+  number_educ: 3
+  education1: B.S. Chemistry, 2024, EIU
+  education2: M.S. Chemistry, 2026, EIU
+  education3: Ph.D. Chemistry, Starting Fall 2026, Washington State University
+  education4:
+
+- name: Genevieve Biberdorf
+  photo: Genevieve_Biberdorf.jpg
+  info: Determining Thermal Decomposition Pathways of PFAS
+  semesters: Spring 2024 - Spring 2026
+  email: glbiberdorf@eiu.edu
+  number_educ: 2
+  education1: B.S. Chemistry, 2026, EIU
+  education2: Ph.D. Chemistry, Starting Fall 2026, Vanderbilt University
+  education3:
+  education4:  
+
+- name: Noah Kubbs
+  photo: Noah Kubbs.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: nskubbs@eiu.edu
+  semesters: Spring 2025 - Summer 2025
+  number_educ: 1
+  education1: B.S. Chemistry, 2026, EIU
+  education2:
+  education3:
+  education4:  
+
+- name: Charlie Stauffer
+  photo: Charlie_Stauffer.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: crstauffer@eiu.edu
+  semesters: Summer 2025 - Fall 2025
+  number_educ: 1
+  education1: B.S. Chemistry, 2026, EIU
+  education2:
+  education3:
+  
+- name: Clayton Carey
+  photo: Clayton_Carey.png
+  info: Non-oxidative Coupling of Methane on Metal Clusters
+  email: crstauffer@eiu.edu
+  semesters: Summer 2025
+  number_educ: 1
+  education1: B.S. Chemistry, 2029, EIU
+  education2:
+  education3:
+
 - name: Preston Siewert
   photo: rock.jpg
   info: Determining Thermal Decomposition Pathways of PFAS

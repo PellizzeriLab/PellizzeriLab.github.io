@@ -8,7 +8,13 @@ permalink: /allnews.html
 
 # News
 
+<ul class="list-unstyled" markdown="0">
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+	<li class="mb-3">
+		<article>
+			<small class="text-muted d-block">{{ article.date }}</small>
+	  <p class="mb-1 news-headline"><em>{{ article.headline | replace: '<img ', "<img alt='news image' " }}</em></p>
+		</article>
+	</li>
 {% endfor %}
+</ul>

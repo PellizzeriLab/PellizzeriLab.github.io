@@ -1,0 +1,19 @@
+- category: Electronic Structure and Molecular Simulation Analysis
+  tools:
+    - Gaussian16
+    - ORCA
+    - Quantum ESPRESSO
+    - CP2K
+    - ASE (Atomic Simulation Environment)
+
+- category: Kinetics and Workflow Automation
+  tools:
+    - Python scientific stack (NumPy, SciPy, pandas)
+    - Jupyter notebooks
+    - Microkinetic and reaction-network analysis scripts
+
+- category: High-Performance Computing
+  tools:
+    - In-House Linux-based cluster workflows
+    - ACCESS allocations (Bridges-2)
+    - SLURM-based batch job submission

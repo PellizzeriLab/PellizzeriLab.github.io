@@ -1,33 +1,37 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2019 Pellizzeri Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://www.eiu.edu/eiuchem/">Department OF Chemistry AND Biochemistry</a> at <a href="https://www.eiu.edu">Eastern Illinois University</a>.</p>
-
-
-		   <p>  </p><p>
-
-
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href='https://www.eiu.edu'>EIU starting funds, </a>
-      - <a href='https://www.acs.org/content/acs/en/funding/grants/petroleum-research-fund.html'>ACS Petroleum Research Fund grant (PRF#65913-UNI6), </a>
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Dr. Steven Pellizzeri<br />
-		  Physical Sciences Building, Eastern Illinois University<br />
-		  600 Lincoln Avenue<br />
-		  Charleston, IL 61920 <br />
-            </div>
-	  </div>
-	</div>
+<footer class="bg-dark text-white py-5 mt-5">
+  <div class="container-lg">
+    <div class="row">
+      <div class="col-md-4 mb-4">
+        <p>&copy; {{ 'now' | date: '%Y' }} Pellizzeri Lab. Site built with <a href="https://jekyllrb.com" class="text-white text-decoration-none">Jekyll</a> and <a href="https://getbootstrap.com" class="text-white text-decoration-none">Bootstrap 5</a>.</p>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html" class="text-info text-decoration-none">Fork and modify this site for your research group.</a></p>
+        <p>We are part of the <a href="https://www.eiu.edu/eiuchem/" class="text-info text-decoration-none">Department of Chemistry and Biochemistry</a> at <a href="https://www.eiu.edu" class="text-info text-decoration-none">Eastern Illinois University</a>.</p>
+      </div>
+      <div class="col-md-4 mb-4">
+    <p class="footer-title mb-2">Funding:</p>
+        <ul class="list-unstyled">
+          <li><a href='https://www.eiu.edu' class="text-info text-decoration-none">EIU Starting Funds</a></li>
+          <li><a href='https://www.acs.org/content/acs/en/funding/grants/petroleum-research-fund.html' class="text-info text-decoration-none">ACS Petroleum Research Fund (PRF#65913-UNI6)</a></li>
+        </ul>
+    <p class="footer-title mt-3 mb-2">Quick Links:</p>
+        <ul class="list-unstyled mb-0">
+          <li><a href="{{ site.url }}{{ site.baseurl }}/computing" class="text-info text-decoration-none">Computing Resources</a></li>
+          <li><a href="{{ site.url }}{{ site.baseurl }}/openings" class="text-info text-decoration-none">Student Openings</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+    <p class="footer-title mb-2">Contact:</p>
+        <p>
+          Dr. Steven Pellizzeri<br/>
+          Physical Sciences Building<br/>
+          Eastern Illinois University<br/>
+          600 Lincoln Avenue<br/>
+          Charleston, IL 61920
+        </p>
+      </div>
+    </div>
+    <hr class="border-secondary">
+    <div class="text-center">
+      <p class="mb-0 small">&copy; {{ 'now' | date: '%Y' }} Pellizzeri Lab | All rights reserved</p>
+    </div>
   </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+</footer>

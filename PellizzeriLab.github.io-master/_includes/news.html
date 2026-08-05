@@ -1,0 +1,15 @@
+<div class="card">
+  <div class="card-header bg-primary text-white">
+    <h5 class="mb-0">News</h5>
+  </div>
+  <div class="card-body">
+    {% for article in site.data.news limit:6 %}
+      <div class="mb-3">
+        <small class="text-muted">{{ article.date }}</small>
+        <p class="mb-0">{{ article.headline }}</p>
+      </div>
+    {% endfor %}
+    <hr>
+    <a href="{{ site.url }}{{ site.baseurl }}/allnews.html" class="btn btn-sm btn-outline-primary">See all News →</a>
+  </div>
+</div>

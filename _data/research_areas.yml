@@ -1,0 +1,23 @@
+- title: Computational discovery of catalytic materials
+  summary: Identify promising catalysts by combining electronic structure analysis with mechanistic modeling.
+  methods: Density Functional Theory (DFT), descriptor development, and reaction pathway analysis.
+  impact: Accelerates catalyst screening and helps prioritize targets for experimental validation.
+  publication:
+    title: Catalytic descriptors and electronic properties of single-site catalysts for ethene dimerization to 1-butene
+    url: https://doi.org/10.1016/j.cattod.2018.02.024
+
+- title: Predicting reaction kinetics and thermodynamics
+  summary: Quantify energetics and rate-limiting steps for molecular transformations relevant to energy and synthesis.
+  methods: Potential energy surfaces, transition-state calculations, and microkinetic modeling.
+  impact: Provides molecular-level understanding to guide reaction optimization.
+  publication:
+    title: Influence of spin state and electron configuration on catalytic hydrogenation mechanisms
+    url: https://doi.org/10.1039/D0CY00394H
+
+- title: Designing materials for wastewater treatment
+  summary: Model adsorption and decomposition pathways for contaminants, including PFAS-related compounds.
+  methods: Thermodynamic analysis, adsorption modeling, and computational nanoreactors.
+  impact: Supports development of more effective and selective treatment materials.
+  publication:
+    title: Predicting pyrolysis decomposition of PFOA using computational nanoreactors
+    url: https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra05187k

@@ -8,19 +8,8 @@
 #  education3:
 #  education4:
 
-- name: Genevieve Biberdorf
-  photo: Genevieve_Biberdorf.jpg
-  info: Determining Thermal Decomposition Pathways of PFAS
-  semesters: Spring 2024 - Current
-  email: glbiberdorf@eiu.edu
-  number_educ: 1
-  education1: B.S. Chemistry, 2026, EIU
-  education2:
-  education3:
-  education4:  
-
 - name: Caityln Wattleworth
-  photo: Caityln_Wattleworth.png
+  photo: Caitlyn_Wattleworth.png
   info: Adsorption of disinfection byproducts on carbon surfaces
   email: cmwattleworth@eiu.edu
   semesters: Spring 2025 - Current
@@ -29,34 +18,3 @@
   education2:
   education3:
   education4:  
-
-- name: Noah Kubbs
-  photo: Noah_Kubbs.png
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: nskubbs@eiu.edu
-  semesters: Spring 2025 - Current
-  number_educ: 1
-  education1: B.S. Chemistry, 2026, EIU
-  education2:
-  education3:
-  education4:  
-
-- name: Charlie Stauffer
-  photo: Charlie_Stauffer.png
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: crstauffer@eiu.edu
-  semesters: Summer 2025 - Current
-  number_educ: 1
-  education1: B.S. Chemistry, 2026, EIU
-  education2:
-  education3:
-  
-- name: Clayton Carey
-  photo: Clayton_Carey.png
-  info: Non-oxidative Coupling of Methane on Metal Clusters
-  email: crstauffer@eiu.edu
-  semesters: Summer 2025
-  number_educ: 1
-  education1: B.S. Chemistry, 2029, EIU
-  education2:
-  education3:

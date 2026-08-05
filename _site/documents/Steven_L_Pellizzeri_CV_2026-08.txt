@@ -1,0 +1,66 @@
+Curriculum Vita for Steven L. Pellizzeri
+Department of Chemistry & Biochemistry, Eastern Illinois University
+spellizzeri@eiu.edu | 600 Lincoln Ave, Charleston, IL 61920 | (217) 581-6237
+
+Last updated: August 2026
+
+Education
+- Ph.D., Chemistry, Syracuse University, December 2013
+  Dissertation: The Solid-State Simulation of the Structure and Vibrational Modes of Organic,
+  Hybrid organometallic and Inorganic species using the CRYSTAL09 code.
+  Advisor: Professor Jon A. Zubieta
+- B.S., Polymer Chemistry (High Honors), Rochester Institute of Technology, May 2007
+  Undergraduate research advisor: Professor Christopher Collison
+
+Teaching Experience / Appointments
+- Associate Professor, Physical Chemistry, EIU (8/25 - present)
+- Assistant Professor, Physical Chemistry, EIU (8/19 - 8/25)
+- General Chemistry Coordinator, EIU (1/21 - 5/24)
+- Lecturer, General Chemistry, Clemson University (8/18 - 6/19)
+- Additional TA and guest-lecturer appointments at Clemson and Syracuse
+
+Courses Taught (selected)
+- CHM 1040 The World of Chemistry Laboratory
+- CHM 1310G General Chemistry I
+- CHM 1315G General Chemistry Laboratory I
+- CHM 1390G Honors General Chemistry I
+- CHM 1410 General Chemistry II
+- CHM 1415 General Chemistry Laboratory II
+- CHM 3910 Chemical Thermodynamics and Kinetics
+- CHM 3915 Physical Chemistry Laboratory
+- CHM 3920 Quantum Chemistry
+- CHM 5210 Bonding and Reactivity
+
+Research Experience
+- Postdoctoral Research Fellow, Clemson University (2014-2019)
+- Graduate Research Assistant, Syracuse University (2008-2013)
+- Undergraduate Research Assistant, RIT (2005-2007)
+
+Research Students Supervised
+- Graduate: 3
+- Undergraduate: 29 total (18 at EIU)
+
+Leadership / Service (selected)
+- EIU iSTEM, co-director
+- EIU Graduate School Research/Creative Activity Grants Committee, member
+- EIU CLAS and University Grades/Curriculum committees, member/chair roles
+- Proposal and journal reviewer for ACS-PRF, NWO, and multiple journals
+
+Research Support (selected)
+- ACCESS allocation CHE250097 (2025-2026)
+- EIU Early Career Grant (2023)
+- ACS PRF UNI #65913-UNI6 (2022-2024)
+- Multiple EIU student research and fellowship awards
+
+Awards (selected)
+- CLAS Student Dean's Outstanding Faculty Award (2024)
+- EIU Achievement and Contribution Award - Research/Creative Activity (2022)
+
+Publications and Presentations
+- Extensive peer-reviewed publication list and invited talks/presentations through 2026.
+- Student presentation mentorship documented across ECI ACS and ACS meetings.
+
+Notes
+- This web copy is a concise version prepared for site sharing.
+- For the complete publication/presentation list and full CV details, replace this file with the
+  full CV export (preferred: PDF) at the same path, or add a PDF and update links.

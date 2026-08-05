@@ -1,12 +1,19 @@
-
-<div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:6 %}
-{{ article.date }}
-<p>{{ article.headline }}</p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-    </div>
+<div class="card">
+  <div class="card-header bg-primary text-white">
+    <h2 id="news-heading" class="h5 mb-0">News</h2>
+  </div>
+  <div class="card-body" aria-labelledby="news-heading">
+    <ul class="list-unstyled mb-0">
+    {% for article in site.data.news limit:6 %}
+      <li class="mb-3">
+        <article>
+          <small class="text-muted d-block">{{ article.date }}</small>
+          <p class="mb-0 news-headline">{{ article.headline | replace: '<img ', "<img alt='news image' " }}</p>
+        </article>
+      </li>
+    {% endfor %}
+    </ul>
+    <hr>
+    <a href="{{ site.url }}{{ site.baseurl }}/allnews.html" class="btn btn-sm btn-outline-primary">See all News →</a>
+  </div>
+</div>

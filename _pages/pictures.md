@@ -8,42 +8,24 @@ permalink: /pictures/
 # Pictures
 
 ## Gallery
-(Right-click *'view image'* to see a larger image.)
 
+<p class="text-muted">Click any image to view the full-size version.</p>
 
-{% assign number_printed = 0 %}
+<div class="row row-cols-1 row-cols-md-2 g-4" markdown="0">
 {% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
+	<div class="col">
+		<figure class="gallery-card h-100 mb-0">
+			<a href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" target="_blank" rel="noopener noreferrer" class="gallery-link" aria-label="Open full-size image: {{ pic.title }} (opens in new tab)">
+				<img
+					src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}"
+					alt="{{ pic.title }}"
+					class="img-fluid gallery-image"
+					loading="lazy"
+				/>
+			</a>
+			<figcaption class="gallery-caption">{{ pic.title }}</figcaption>
+		</figure>
+	</div>
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>

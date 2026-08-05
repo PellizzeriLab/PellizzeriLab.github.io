@@ -17,14 +17,20 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row g-3">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}><br></i>
-  <ul style="overflow: hidden">
+<div class="col-md-6 mb-3">
+  <div class="team-member-card h-100 p-3 border rounded bg-white shadow-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded team-member-photo" alt="{{ member.name }}" />
+  <h3 class="h4">{{ member.name }}</h3>
+  <p class="member-meta"><em>{{ member.info }}<br>email: <a href="mailto:{{ member.email }}">{{ member.email }}</a><br></em></p>
+  <div class="member-actions" markdown="0">
+    <a class="btn btn-sm btn-outline-primary" href="mailto:{{ member.email }}">Contact</a>
+    <a class="btn btn-sm btn-outline-secondary" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a>
+    <a class="btn btn-sm btn-outline-secondary" href="{{ site.url }}{{ site.baseurl }}/documents/Pellizzeri_CV_5_17_2026.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+  </div>
+  <ul class="mb-0">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -57,6 +63,7 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
   {% endif %}
 
   </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -79,14 +86,19 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row g-3">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}><br>Semester(s) in Group: {{ member.semesters }}</i>
-  <ul style="overflow: hidden">
+<div class="col-md-6 mb-3">
+  <div class="team-member-card h-100 p-3 border rounded bg-white shadow-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded team-member-photo" alt="{{ member.name }}" />
+  <h3 class="h4">{{ member.name }}</h3>
+  <p class="member-meta"><em>{{ member.info }}<br>email: <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>Semester(s) in Group: {{ member.semesters }}</em></p>
+  <div class="member-actions" markdown="0">
+    <a class="btn btn-sm btn-outline-primary" href="mailto:{{ member.email }}">Contact</a>
+    <a class="btn btn-sm btn-outline-secondary" href="{{ site.url }}{{ site.baseurl }}/research">Project Area</a>
+  </div>
+  <ul class="mb-0">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -111,6 +123,7 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
   {% endif %}
 
   </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -133,14 +146,19 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row g-3">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}><br>Semester(s) in Group: {{ member.semesters }}</i>
-  <ul style="overflow: hidden">
+<div class="col-md-6 mb-3">
+  <div class="team-member-card h-100 p-3 border rounded bg-white shadow-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded team-member-photo" alt="{{ member.name }}" />
+  <h3 class="h4">{{ member.name }}</h3>
+  <p class="member-meta"><em>{{ member.info }}<br>email: <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>Semester(s) in Group: {{ member.semesters }}</em></p>
+  <div class="member-actions" markdown="0">
+    <a class="btn btn-sm btn-outline-primary" href="mailto:{{ member.email }}">Contact</a>
+    <a class="btn btn-sm btn-outline-secondary" href="{{ site.url }}{{ site.baseurl }}/openings">Opportunities</a>
+  </div>
+  <ul class="mb-0">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -165,6 +183,7 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
   {% endif %}
 
   </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -187,14 +206,15 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row g-3">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Semester(s) in Group: {{ member.semesters }}</i>
-  <ul style="overflow: hidden">
+<div class="col-md-6 mb-3">
+  <div class="team-member-card h-100 p-3 border rounded bg-white shadow-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded team-member-photo" alt="{{ member.name }}" />
+  <h3 class="h4">{{ member.name }}</h3>
+  <p class="member-meta"><em>{{ member.info }}<br>Semester(s) in Group: {{ member.semesters }}</em></p>
+  <ul class="mb-0">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -219,6 +239,7 @@ Jump to [PI](#pi), [master and bachelor students](#master-and-bachelor-students)
   {% endif %}
 
   </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

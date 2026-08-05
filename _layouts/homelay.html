@@ -2,16 +2,17 @@
 layout: default
 ---
 
-
-  <div id="homeid" class="col-sm-8">
-    <figure class="img-responsive center-block">
-      <center><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/New_Group_Logo.png" style="width: 350px"></center>
-    </figure>
-
-    <h1>Welcome to the Pellizzeri Lab</h1>
-
-	{{ content }}
+<div class="col-lg-8">
+  <div class="hero-panel text-center mb-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/New_Group_Logo.png" alt="Pellizzeri Lab Logo" class="img-fluid" style="max-width: 300px;">
+    <p class="text-muted mb-0 mt-2">Computational Chemistry • Catalysis • Environmental Materials</p>
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+
+  <h1 class="mb-3">Welcome to the Pellizzeri Lab</h1>
+
+  {{ content }}
+</div>
+
+<div class="col-lg-4">
+  {% include news.html %}
+</div>
