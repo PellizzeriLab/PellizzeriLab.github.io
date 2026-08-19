@@ -59,7 +59,7 @@ permalink: /publications/
     {% endfor %}
   </div>
 
-  <h2 id="full-list">Full List (* undergraduate student)</h2>
+  <h2 id="full-list">Full List (* undergraduate student ‡ master's student)</h2>
 
   <div markdown="0">
     {% for y in years %}
