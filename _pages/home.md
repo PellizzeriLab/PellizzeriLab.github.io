@@ -75,6 +75,7 @@ permalink: /
     <button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
     <button type="button" data-bs-target="#carousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
   </div>
 
   <div class="carousel-inner" markdown="0">
@@ -89,6 +90,9 @@ permalink: /
     </div>
     <div class="carousel-item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Elizabeth_Project.png" class="d-block w-100" alt="Project image" style="height:400px;"/>
+    </div>
+      <div class="carousel-item">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/m_jp6c03256_0007.png" class="d-block w-100" alt="Project image" style="height:400px;"/>
     </div>
   </div>
 

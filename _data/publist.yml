@@ -1,5 +1,16 @@
 ---
 -
+  authors: "S. Eccles*, **S. Pellizzeri**"
+  description: ~
+  highlight: 1
+  image: m_jp6c03256_0007.png
+  link:
+    display: "J. Phys. Chem. A (2026)"
+    url: "https://pubs.acs.org/jpcafh/article/doi/10.1021/acs.jpca.6c03256/5275806/Expanded-Group-Additivity-Framework-for"
+  news2: ~
+  title: "Expanded Group Additivity Framework for Thermochemical Prediction of Fluorocarbons and PFAS from Large-Scale DFT Data"
+  year: 2026
+-
   authors: "E. Serna-Sanchez*, **S. Pellizzeri**"
   description: ~
   highlight: 1
@@ -13,7 +24,7 @@
 -
   authors: "H. Shabbir, **S. Pellizzeri**, M. Ferrandon, I.S. Kim, N.A. Vermeulen, O.K. Farha, M. Delferro, A.B.F Martinson, R.B. Getman"
   description: ~
-  highlight: 1
+  highlight: 0
   image: CatalSciTechnol2020.png
   link:
     display: "Catal. Sci. Technol., 2020,10, 3594-3602"
